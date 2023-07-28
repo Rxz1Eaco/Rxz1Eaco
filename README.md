@@ -10,14 +10,12 @@
 <br />
 <br />
 </div>
-<!-- <img align="left" width="400" height="400" src="https://mograph.video/2HwFiEL"> -->
 <h1 align="center">Olá, me chamo Edilson Rocha ! </h1>
-
 
 <!-- <img src="./.github/Hi.gif" width="25"> -->
 :computer: Estagiário de Qualidade com foco análise de dados<br/>
 :man_student: Engenharia da Produção<br/>
-:white_heart: Apaixonado por Desafios e Programação <br/>
+:man_student: Desenvolvedor Jr <br/>
 :seedling: Atualmente estudando: Python, GIT, SQL <br/>
 &#xa0;
 <h1 align="center"> <br/><br/>Tecnologias </h1>
@@ -40,6 +38,8 @@
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Vscode" title="Visual Studio Code">
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" title="Figma Desktop">
  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" title="Jupyter Notebook">
-</div>
-</p>
+  </div>
+  </p>
+
+
 <!---- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={Rxz1}&theme=blue-green">
