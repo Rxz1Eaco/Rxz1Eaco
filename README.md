@@ -33,11 +33,13 @@
 &#xa0;
 
 &#xa0;
-## 🔮 Minha Stack
+<h1 align="center"> <br/><br/>🔮 Minha Stack</h1>
+<p align="center">
  Essas são algumas das tecnologias que uso no dia a dia
   <div align="center">
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Vscode" title="Visual Studio Code">
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" title="Figma Desktop">
  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" title="Jupyter Notebook">
 </div>
+</p>
 <!---- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={Rxz1}&theme=blue-green">
