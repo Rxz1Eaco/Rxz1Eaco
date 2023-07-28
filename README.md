@@ -16,7 +16,7 @@
 :computer: Estagiário de Qualidade com foco análise de dados<br/>
 :man_student: Engenharia da Produção<br/>
 :man_student: Desenvolvedor Jr <br/>
-:seedling: Atualmente estudando: Python, GIT, SQL <br/>
+:seedling: Atualmente estudando: GIT, SQL <br/>
 &#xa0;
 <h1 align="center"> <br/><br/>Tecnologias </h1>
 <p align="center">
