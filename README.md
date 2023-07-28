@@ -19,7 +19,6 @@
 :man_student: Engenharia da Produção<br/>
 :white_heart: Apaixonado por Desafios e Programação <br/>
 :seedling: Atualmente estudando: Python, GIT, SQL <br/>
-:house_with_garden: Atualmente morando em São Luís/MA<br/>
 &#xa0;
 <h1 align="center"> <br/><br/>Tecnologias </h1>
 <p align="center">
@@ -31,7 +30,6 @@
  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" alt="Python" title="Python">
  
  </p>
-
 &#xa0;
 
 &#xa0;
