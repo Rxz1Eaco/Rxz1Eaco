@@ -12,9 +12,7 @@
 </div>
 <!-- <img align="left" width="400" height="400" src="https://mograph.video/2HwFiEL"> -->
 <h1 align="center">Olá, me chamo Edilson Rocha ! </h1>
-<div align="center">
-<img src="https://media3.giphy.com/media/wvQIqJyNBOCjK/giphy.gif?cid=ecf05e47v6pc78wt7ebnc8xpzdkaicdkjk8x9j8asqio39iz&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
-</div>
+
 
 <!-- <img src="./.github/Hi.gif" width="25"> -->
 :computer: Estagiário de Qualidade com foco análise de dados<br/>
