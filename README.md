@@ -14,7 +14,6 @@
 
 <!-- <img src="./.github/Hi.gif" width="25"> -->
 :computer: Estagiário de Qualidade com foco análise de dados<br/>
-:man_student: Engenharia da Produção<br/>
 :man_student: Desenvolvedor Jr <br/>
 :seedling: Atualmente estudando: GIT, SQL <br/>
 &#xa0;
