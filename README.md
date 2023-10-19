@@ -10,7 +10,7 @@
 <br />
 <br />
 </div>
-<h1 align="center">Hello Word, My name Edilson Rocha ! </h1>
+<h1 align="center">Hello, My name Edilson Rocha ! </h1>
 
 <!-- <img src="./.github/Hi.gif" width="25"> -->
 :computer: I am Quality Intern with a focus on data analysis - Production Engineering<br/>
