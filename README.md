@@ -10,7 +10,6 @@
 <br />
 <br />
 </div>
-
 <h1 align="center">Hello, My name Edilson Rocha ! </h1>
 <img src="./.github/Hi.gif" width="25">
 :computer: I am Quality Intern with a focus on data analysis - Production Engineering<br/>
@@ -28,10 +27,8 @@
  </p>
 <h1 align="center"> <br/><br/>Comfortable - technologies:</h1>
 <p align="center">
- 
  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql" alt="SQL" title="SQL">
  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql" alt="MySQL" title="MySQL">
-
  </p>
 <h1 align="center"> <br/><br/>🔮 My Stack</h1>
 <p align="center">
