@@ -10,12 +10,11 @@
 <br />
 <br />
 </div>
-<h1 align="center">Hello, My name Edilson Rocha ! </h1>
 
-<!-- <img src="./.github/Hi.gif" width="25"> -->
+<h1 align="center">Hello, My name Edilson Rocha ! </h1>
+<img src="./.github/Hi.gif" width="25">
 :computer: I am Quality Intern with a focus on data analysis - Production Engineering<br/>
 :man_student: Jr Developer <br/>
-&#xa0;
 <h1 align="center"> <br/><br/> Learning- technologies:</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=4479A1" alt="JavaScript" title="JavaScript">
@@ -26,9 +25,7 @@
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" alt="Python" title="Python">
   <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html" alt="HTML" title="HTML">
   <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css" alt="CSS" title="CSS">
-
  </p>
-&#xa0;
 <h1 align="center"> <br/><br/>Comfortable - technologies:</h1>
 <p align="center">
  
@@ -36,9 +33,6 @@
  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql" alt="MySQL" title="MySQL">
 
  </p>
-&#xa0;
-
-&#xa0;
 <h1 align="center"> <br/><br/>🔮 My Stack</h1>
 <p align="center">
 These are some of the technologies I use on a daily basis  <div align="center">
