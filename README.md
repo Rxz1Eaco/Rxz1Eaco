@@ -12,7 +12,7 @@
 </div>
 <h1 align="center">Hello!</h1>
 <img src="./.github/Hi.gif" width="25">
-:computer: <strong>I am Quality Intern with a focus on data analysis - Production Engineering</strong><br/>
+:computer: <strong>I'm a Quality/Project Intern with a focus on data analysis - Production Engineering</strong><br/>
 :man_student: <strong>Jr Developer</strong> <br/>
 <h1 align="center"> <br/><br/>🔮 My Stack</h1>
 <p align="center">
