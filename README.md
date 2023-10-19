@@ -10,34 +10,36 @@
 <br />
 <br />
 </div>
-<h1 align="center">Hello, My name Edilson Rocha ! </h1>
+<h1 align="center">Hello!</h1>
 <img src="./.github/Hi.gif" width="25">
-:computer: I am Quality Intern with a focus on data analysis - Production Engineering<br/>
-:man_student: Jr Developer <br/>
-<h1 align="center"> <br/><br/> Learning- technologies:</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=4479A1" alt="JavaScript" title="JavaScript">
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=4479A1" alt="Git" title="Git">
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql" alt="MySQL" title="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql" alt="PostgreSQL" title="PostgreSQL">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" alt="GitHub" title="GitHub">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" alt="Python" title="Python">
-  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html" alt="HTML" title="HTML">
-  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css" alt="CSS" title="CSS">
- </p>
-<h1 align="center"> <br/><br/>Comfortable - technologies:</h1>
-<p align="center">
- <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql" alt="SQL" title="SQL">
- <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql" alt="MySQL" title="MySQL">
- </p>
+:computer: <strong>I am Quality Intern with a focus on data analysis - Production Engineering</strong><br/>
+:man_student: <strong>Jr Developer</strong> <br/>
 <h1 align="center"> <br/><br/>🔮 My Stack</h1>
 <p align="center">
 These are some of the technologies I use on a daily basis  <div align="center">
- <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Vscode" title="Visual Studio Code">
- <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" title="Figma Desktop">
- <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" title="Jupyter Notebook">
-  </div>
+<p align="center">
+            <a href="https://skillicons.dev">
+               <img src="https://skillicons.dev/icons?i=git,github,stackoverflow,vscode,mysql,python,cpp" />
+
+</a>
+          </p>
+<h1 align="center"> <br/><br/> Learning:</h1>
+<p align="center">
+            <a href="https://skillicons.dev">
+               <img src="https://skillicons.dev/icons?i=linux,git,gitlab,kubernetes,docker,postgres,mysql,cpp,python,golang" />
+            </a>
+          </p>
+<h1 align="center"> <br/><br/>Comfortable:</h1>
+<p align="center">
+            <a href="https://skillicons.dev">
+               <img src="https://skillicons.dev/icons?i=git,cpp,python" />
+            </a>
+          </p>
+
+</div>
   </p>
-
-
-<!---- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={Rxz1}&theme=blue-green">
+<div>
+ <a href="https://github.com/Rxz1Eaco">
+ <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rxz1Eaco&layout=compact&langs_count=7&theme=dracula"/>
+ <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=Rxz1Eaco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
