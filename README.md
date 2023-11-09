@@ -32,7 +32,7 @@ These are some of the technologies I use on a daily basis  <div align="center">
 <h1 align="center"> <br/><br/>Comfortable:</h1>
 <p align="center">
             <a href="https://skillicons.dev">
-               <img src="https://skillicons.dev/icons?i=git,cpp,python" />
+               <img src="https://skillicons.dev/icons?i=git,mysql,cpp,python" />
             </a>
           </p>
 
