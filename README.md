@@ -19,7 +19,7 @@
 These are some of the technologies I use on a daily basis  <div align="center">
 <p align="center">
             <a href="https://skillicons.dev">
-               <img src="https://skillicons.dev/icons?i=git,github,stackoverflow,vscode,mysql,python,cpp" />
+               <img src="https://skillicons.dev/icons?i=git,github,stackoverflow,vscode,mysql,postgres,python,cpp" />
 
 </a>
           </p>
