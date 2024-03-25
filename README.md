@@ -25,13 +25,13 @@ These are some of the technologies I use on a daily basis  <div align="center">
 
 </a>
           </p>
-<h1 align="center"> <br/><br/> Learning:</h1>
+<h1 align="center"> <br/><br/> 💡 Learning:</h1>
 <p align="center">
             <a href="https://skillicons.dev">
                <img src="https://skillicons.dev/icons?i=linux,git,kubernetes,docker,postgres,mysql,cpp,python,solidity,golang" />
             </a>
           </p>
-<h1 align="center"> <br/><br/>Comfortable:</h1>
+<h1 align="center"> <br/><br/>♝ Comfortable:</h1>
 <p align="center">
             <a href="https://skillicons.dev">
                <img src="https://skillicons.dev/icons?i=git,mysql,cpp,python,docker" />
