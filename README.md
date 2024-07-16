@@ -14,8 +14,7 @@
 <img src="./.github/Hi.gif" width="25">
 <p>Hello! My name is <strong>Éaco Rocha</strong>, I am a student ,researcher and passionate about <strong>Production Engineering</strong>👨🏾‍🔬.</p>
 <p>I'm a Junior Developer 👨🏾‍💻</p>
-<p>I'm always looking for new challenges and learning in the area of ​​<strong> Operations Management, Data Analysis, Data Science and ML</strong>.</p>
-<p>This is my space on GitHub, where I share projects and learnings. If you want to get in touch, feel free to send me a message here on GitHub. Let's create something amazing together!</p>
+<p>I'm always looking for new challenges and learning in the area of ​​<strong>Production Engineering, Operations Management, Data Analysis, Data Science and ML</strong>.</p><p>This is my space on GitHub, where I share projects and learnings. If you want to get in touch, feel free to send me a message here on GitHub. Let's create something amazing together!</p>
 <h1 align="center"> <br/><br/>🔮 My Stack</h1>
 <p align="center">
 These are some of the technologies I use on a daily basis  <div align="center">
