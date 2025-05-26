@@ -20,20 +20,20 @@
 These are some of the technologies I use on a daily basis  <div align="center">
 <p align="center">
             <a href="https://skillicons.dev">
-               <img src="https://skillicons.dev/icons?i=git,github,stackoverflow,vscode,mysql,postgres,python,cpp" />
+               <img src="https://skillicons.dev/icons?i=git,github,stackoverflow,vscode,mysql,postgres,python" />
 
 </a>
           </p>
-<h1 align="center"> <br/><br/> 💡 Learning:</h1>
+<h1 align="center"> <br/><br/>💡Learning:</h1>
 <p align="center">
             <a href="https://skillicons.dev">
-               <img src="https://skillicons.dev/icons?i=linux,git,kubernetes,docker,postgres,mysql,cpp,python,solidity,golang" />
+               <img src="https://skillicons.dev/icons?i=linux,git,kubernetes,docker,postgres,mysql,python,golang" />
             </a>
           </p>
-<h1 align="center"> <br/><br/>♝ Comfortable:</h1>
+<h1 align="center"> <br/><br/>♝Comfortable:</h1>
 <p align="center">
             <a href="https://skillicons.dev">
-               <img src="https://skillicons.dev/icons?i=git,mysql,cpp,python,docker" />
+               <img src="https://skillicons.dev/icons?i=git,mysql,python,docker" />
             </a>
           </p>
 
