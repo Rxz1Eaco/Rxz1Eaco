@@ -43,7 +43,7 @@ Passionate about applying Data + IoT + ML in industrial and operational contexts
 ![Git](https://img.shields.io/badge/-Git-f05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
-**Languages & Databases &**
+**Languages & Databases**
 
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge\&logo=python\&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599c?style=for-the-badge&logo=cplusplus&logoColor=white)
