@@ -4,7 +4,7 @@
 
 **Production Engineering Student & Researcher**, focused on building intelligent and data-driven solutions for industrial systems, operations, logistics, and production environments.
 
-Focused on combining Data Science, Machine Learning, Operations Research, and Engineering Economics to solve real-world operational challenges through analytics, optimization, automation, and AI.
+Focused on combining Data Science, Machine Learning, Operations Research, and Engineering Economics to solve real-world operational challenges through analytics, optimization and automation.
 
 Passionate about applying Data + IoT + ML in industrial and operational contexts, always learning, building, and sharing projects here on GitHub.
 
