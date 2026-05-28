@@ -47,6 +47,7 @@ Passionate about applying Data + IoT + ML in industrial and operational contexts
 
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge\&logo=python\&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599c?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/-R-3776ab?style=for-the-badge\&logo=r\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479a1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ---
